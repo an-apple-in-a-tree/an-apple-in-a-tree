@@ -31,5 +31,4 @@
   <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9N_B65ddyyYPaBZS4HJIl9oInpnHYzIMgKQ&s" width = "100" height = "100">
   <img src = "https://gsap.com/community/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" width = "100" height = "100">
   <img src = "https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width = "100" height = "100">
-  <img src = "https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width = "100" height = "100">
 </div>
