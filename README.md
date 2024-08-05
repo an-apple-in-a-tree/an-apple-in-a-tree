@@ -1,6 +1,6 @@
-## Hi there, welcome to my Github: 👋
+# Hi there, welcome to my Github: 👋
 
-# Languages:
+## Languages:
 <div>
   <img src = "https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png" width = "100" height = "100">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "100" height = "100">
@@ -10,7 +10,7 @@
 </div>
 
 
-# Other Tools:
+## Other Tools:
 <div>
   <img src = "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width = "100" height = "100">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width = "100" height = "100">
@@ -21,7 +21,7 @@
 <img src = "https://www.gstatic.com/devrel-devsite/prod/v8c8ec5f90d3e078ddd668309d42cb633e54798872586821a55652000226f878b/firebase/images/touchicon-180.png" width = "100" height = "100">
 </div>
 
-# Favourite UI Tools:
+## Favourite UI Tools:
 <div>
   <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" height = "100">
   <img src = "https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" width = "100" height = "100">
