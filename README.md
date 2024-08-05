@@ -1,5 +1,7 @@
 # Hi there, welcome to my Github: 👋
 
+Will need to change this after getting roasted by an ai...
+
 ## Languages:
 <div>
   <img src = "https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png" width = "100" height = "100">
