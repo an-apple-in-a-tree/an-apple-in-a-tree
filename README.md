@@ -14,6 +14,7 @@
 <div>
   <img src = "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width = "100" height = "100">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width = "100" height = "100">
+  <img src = "https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width = "100" height = "100">
   <img src = "https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width = "100" height = "100">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width = "100" height = "100">
   <img src = "https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width = "100" height = "100">
@@ -32,10 +33,3 @@
   <img src = "https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width = "100" height = "100">
   <img src = "https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width = "100" height = "100">
 </div>
-
-<img src = "" width = "100" height = "100">
-<img src = "" width = "100" height = "100">
-
-
-
-
