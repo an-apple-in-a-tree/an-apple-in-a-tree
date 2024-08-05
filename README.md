@@ -13,12 +13,12 @@
 ## Other Tools:
 <div>
   <img src = "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width = "100" height = "100">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width = "100" height = "100">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width = "100" height = "100">
-<img src = "https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width = "100" height = "100">
-<img src = "https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width = "100" height = "100">
-<img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flask-logo-icon.png" width = "100" height = "100">
-<img src = "https://www.gstatic.com/devrel-devsite/prod/v8c8ec5f90d3e078ddd668309d42cb633e54798872586821a55652000226f878b/firebase/images/touchicon-180.png" width = "100" height = "100">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width = "100" height = "100">
+  <img src = "https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width = "100" height = "100">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width = "100" height = "100">
+  <img src = "https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width = "100" height = "100">
+  <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flask-logo-icon.png" width = "100" height = "100">
+  <img src = "https://www.gstatic.com/devrel-devsite/prod/v8c8ec5f90d3e078ddd668309d42cb633e54798872586821a55652000226f878b/firebase/images/touchicon-180.png" width = "100" height = "100">
 </div>
 
 ## Favourite UI Tools:
